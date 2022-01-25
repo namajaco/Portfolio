@@ -1,0 +1,17 @@
+body {
+    background-color: #1F2937;
+}
+
+h1,h2 {
+    font-family: 'Alegreya', serif;
+    font-weight: 700;
+}
+
+#sidebar {
+    background-color: grey;
+
+}
+
+.row {
+ background-color: lightblue;
+}
