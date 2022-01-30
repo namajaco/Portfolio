@@ -8,6 +8,10 @@ html {
     box-sizing:inherit;
 }
 
+.nowrap {
+    white-space: nowrap;
+}
+
 i {
     font-weight: 400;
 }
